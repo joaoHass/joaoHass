@@ -1,9 +1,8 @@
 ## Hi! I'm João, a self-taught front-end developer 👋
 
+### About me:
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on [Blanc Digital](https://blancmarketingdigital.com.br/)
+🔭 Currently working on [Blanc Digital](https://blancmarketingdigital.com.br/)
 
 🌱 I’m currently learning:
 - React.js
@@ -25,4 +24,4 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
-Powered by ❤ and 🎧 ;-)
+#### Powered by ❤ and 🎧 ;-)
