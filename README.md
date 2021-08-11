@@ -1,4 +1,6 @@
-## Hi! I'm João, a self-taught front-end developer who loves responsiviness and acessibility 👋
+## Hi! I'm João, a self-taught front-end developer 👋
+
+I love implementing responsiviness on projects (I'm looking at you, ``clamp()``) and acessibility, the internet should be acessible for everyone :)
 
 ### About me:
 
