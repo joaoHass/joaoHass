@@ -1,4 +1,4 @@
-## Hi! I'm João, a self-taught front-end developer 👋
+## Hi! I'm João, a self-taught front-end developer who loves responsiviness and acessibility 👋
 
 ### About me:
 
