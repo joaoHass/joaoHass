@@ -7,9 +7,9 @@ I love implementing responsiviness on projects (I'm looking at you, ``clamp()``)
 🔭 Currently working at [Blanc Digital](https://blancmarketingdigital.com.br/)
 
 🌱 I’m currently learning:
-- Svelte
+- React
 - Typescript
-- WordPress / Elementor
+- Design
 
 ### Languages and Tools:
 
@@ -17,6 +17,7 @@ I love implementing responsiviness on projects (I'm looking at you, ``clamp()``)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
