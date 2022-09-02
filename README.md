@@ -1,15 +1,9 @@
 ## Hi! I'm João, a self-taught front-end developer 👋
 
-I love implementing responsiviness on projects (I'm looking at you, ``clamp()``) and acessibility, the internet should be acessible for everyone :)
-
-### About me:
-
-🔭 Currently working at [Blanc Digital](https://blancmarketingdigital.com.br/)
-
 🌱 I’m currently learning:
-- React
-- Typescript
-- Design
+- .NET
+- Clean Architecture
+- SQL
 
 ### Languages and Tools:
 
