@@ -1,4 +1,4 @@
-## Hi! I'm João, a self-taught front-end developer 👋
+## Hi! I'm João, a full-stack developer 👋
 
 🌱 I’m currently learning:
 - .NET
