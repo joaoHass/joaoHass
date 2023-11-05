@@ -1,1 +1,2 @@
-Estudando arquitetura de software
+I develop systems/programs professionally using C# and PHP (Laravel).
+
