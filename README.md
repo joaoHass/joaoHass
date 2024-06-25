@@ -1,2 +1,1 @@
-I develop systems/programs professionally using C# and PHP (Laravel).
-
+I've been working professionally for +4 years with Java, C#, and PHP.
